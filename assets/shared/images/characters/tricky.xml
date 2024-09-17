@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tricky.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="1127" height="1028"/>
+	<SubTexture name="Idle0001" x="1127" y="0" width="1127" height="1028"/>
+	<SubTexture name="Idle0002" x="2254" y="0" width="1127" height="1028"/>
+	<SubTexture name="Idle0003" x="3381" y="0" width="1127" height="1028"/>
+	<SubTexture name="Idle0004" x="4508" y="0" width="1127" height="1028"/>
+	<SubTexture name="Idle0005" x="5635" y="0" width="1127" height="1028"/>
+	<SubTexture name="Idle0006" x="6762" y="0" width="1127" height="1028"/>
+	<SubTexture name="Idle0007" x="0" y="1028" width="1127" height="1028"/>
+	<SubTexture name="Idle0008" x="1127" y="1028" width="1127" height="1028"/>
+	<SubTexture name="Idle0009" x="2254" y="1028" width="1127" height="1028"/>
+	<SubTexture name="Idle0010" x="3381" y="1028" width="1127" height="1028"/>
+	<SubTexture name="Idle0011" x="4508" y="1028" width="1127" height="1028"/>
+	<SubTexture name="Idle0012" x="5635" y="1028" width="1127" height="1028"/>
+	<SubTexture name="Idle0013" x="6762" y="1028" width="1127" height="1028"/>
+	<SubTexture name="Idle0014" x="0" y="2056" width="1127" height="1028"/>
+	<SubTexture name="Idle0015" x="1127" y="2056" width="1127" height="1028"/>
+	<SubTexture name="Idle0016" x="2254" y="2056" width="1127" height="1028"/>
+	<SubTexture name="Idle0017" x="3381" y="2056" width="1127" height="1028"/>
+	<SubTexture name="Idle0018" x="4508" y="2056" width="1127" height="1028"/>
+	<SubTexture name="Idle0019" x="5635" y="2056" width="1127" height="1028"/>
+	<SubTexture name="Idle0020" x="6762" y="2056" width="1127" height="1028"/>
+	<SubTexture name="Idle0021" x="0" y="3084" width="1127" height="1028"/>
+	<SubTexture name="Idle0022" x="1127" y="3084" width="1127" height="1028"/>
+	<SubTexture name="Idle0023" x="2254" y="3084" width="1127" height="1028"/>
+	<SubTexture name="Idle0024" x="3381" y="3084" width="1127" height="1028"/>
+	<SubTexture name="Idle0025" x="4508" y="3084" width="1127" height="1028"/>
+	<SubTexture name="Sing Down0000" x="5635" y="3084" width="1127" height="1028"/>
+	<SubTexture name="Sing Down0001" x="6762" y="3084" width="1127" height="1028"/>
+	<SubTexture name="Sing Down0002" x="0" y="4112" width="1127" height="1028"/>
+	<SubTexture name="Sing Down0003" x="1127" y="4112" width="1127" height="1028"/>
+	<SubTexture name="Sing Left0000" x="2254" y="4112" width="1127" height="1028"/>
+	<SubTexture name="Sing Left0001" x="3381" y="4112" width="1127" height="1028"/>
+	<SubTexture name="Sing Left0002" x="4508" y="4112" width="1127" height="1028"/>
+	<SubTexture name="Sing Left0003" x="5635" y="4112" width="1127" height="1028"/>
+	<SubTexture name="Sing Right0000" x="6762" y="4112" width="1127" height="1028"/>
+	<SubTexture name="Sing Right0001" x="0" y="5140" width="1127" height="1028"/>
+	<SubTexture name="Sing Right0002" x="1127" y="5140" width="1127" height="1028"/>
+	<SubTexture name="Sing Right0003" x="2254" y="5140" width="1127" height="1028"/>
+	<SubTexture name="Sing Right0004" x="3381" y="5140" width="1127" height="1028"/>
+	<SubTexture name="Sing Up0000" x="4508" y="5140" width="1127" height="1028"/>
+	<SubTexture name="Sing Up0001" x="5635" y="5140" width="1127" height="1028"/>
+	<SubTexture name="Sing Up0002" x="6762" y="5140" width="1127" height="1028"/>
+	<SubTexture name="Sing Up0003" x="0" y="6168" width="1127" height="1028"/>
+</TextureAtlas>
