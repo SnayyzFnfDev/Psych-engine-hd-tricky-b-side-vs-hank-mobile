@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Unknown Suffering",
+			"tricky",
+			[
+				82,
+				89,
+				81
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "tricky",
+	"weekCharacters": [
+		"tricky",
+		"bf",
+		"gf"
+	],
+	"storyName": "Is Suicide Really the Best Option...?",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
